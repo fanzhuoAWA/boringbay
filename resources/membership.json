@@ -534,5 +534,12 @@
 		"name": "竟何",
 		"description": "写给你的长信",
 		"github_username": "lylelove"
-	}	
+	},
+	"90":{
+		"domain": "blog.fanzhuo.xyz",
+		"icon": "https://blog.fanzhuo.xyz/favicon.ico",
+		"name": "Fanzhuo's Blog",
+		"description": "我的开发日志、生活随笔与算法浅谈。",
+		"github_username": "fanzhuoAWA"
+	}
 }
